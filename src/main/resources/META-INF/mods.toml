@@ -51,6 +51,6 @@ Nevertheless, I hope you enjoy this mod!
 [[dependencies.originiummod]]
     modId="luckytntlib"
     mandatory=true
-    versionRange="[43,)"
+    versionRange="[43.0.0.2,)"
     ordering="NONE"
     side="BOTH"
